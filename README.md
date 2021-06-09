@@ -8,7 +8,6 @@ Packages used:
 * Pickle
 * Flask
 * Seaborn
-* 
 
 Feature engineering: SelectKBest/mutual_info_regression
 
